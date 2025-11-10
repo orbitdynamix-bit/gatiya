@@ -1,2 +1,3 @@
-# gatiya
-ride sharing application
+# Gatiya
+
+# Comming soon !!
